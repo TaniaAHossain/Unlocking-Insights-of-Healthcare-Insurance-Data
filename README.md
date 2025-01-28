@@ -14,7 +14,7 @@ Regional variations in insurance charges are observed, but they have a comparati
 
 Additionally, the distribution of smokers by gender shows a nearly equal split, with male smokers comprising 47.39% and female smokers 52.61%. This indicates that smoking-related risks affect both genders similarly.
 
-## Key Takeaways:
+** Key Takeaways:
 Smoking and BMI are the primary factors driving higher insurance charges.
 Age has a moderate impact, with costs increasing as individuals grow older.
 Regional differences exist but play a relatively smaller role in cost variations.
