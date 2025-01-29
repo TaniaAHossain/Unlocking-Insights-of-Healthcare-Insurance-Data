@@ -1,5 +1,5 @@
  
-## Dashboard Analysis using Power BI 
+## Unlocking Healthcare Insurance Insights using Power BI 
 ## Overview 
 This Power BI dashboard presents a comprehensive analysis of healthcare insurance charges, highlighting the primary factors that contribute to increased costs. The dashboard enables users to interactively explore:
 * Insurance cost distribution by region, BMI type, and smoking status.
