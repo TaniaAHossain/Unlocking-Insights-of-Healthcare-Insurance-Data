@@ -3,7 +3,10 @@
  
 ## Dashboard Analysis using Power BI 
 ## Overview 
-This dashboard provides key insights into healthcare insurance charges based on factors such as age, Body Mass Index (BMI), smoking status, and geographical region. The visualizations help identify major cost drivers and trends, enabling better risk assessment for insurance providers and informed health decisions for individuals.
+This Power BI dashboard presents a comprehensive analysis of healthcare insurance charges, highlighting the primary factors that contribute to increased costs. The dashboard enables users to interactively explore:
+* Insurance cost distribution by region, BMI type, and smoking status.
+* The correlation between age and insurance charges.
+* The impact of smoking on healthcare costs.
 
 ![Image](https://github.com/user-attachments/assets/c28e387f-cfe9-487a-9389-c7b73614a777)
 
