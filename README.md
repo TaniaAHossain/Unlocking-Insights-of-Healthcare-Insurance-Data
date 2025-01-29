@@ -11,16 +11,47 @@ This Power BI dashboard presents a comprehensive analysis of healthcare insuranc
 ![Image](https://github.com/user-attachments/assets/c28e387f-cfe9-487a-9389-c7b73614a777)
 
 ## Dashboard Highlights
-**Average Insurance Charges**
+**Average Insurance Charges:**
 * The overall average charge is $13.27K, serving as a reference point for comparisons.
 
-BMI (Body Mass Index) is also crucial in determining insurance costs. Individuals categorized as obese face the highest charges due to their elevated health risks, followed by overweight individuals, who also experience above-average costs. Those in the normal and underweight categories generally incur lower insurance expenses. The classification based on risk levels shows that individuals in the "Very High Risk" category (primarily obese individuals) have the highest healthcare charges.
+**Impact of Smoking on Charges:**
+* Smokers pay significantly higher premiums ($32.05K) than non-smokers ($8.43K).
+* Smoking is the most influential factor in determining insurance costs.
 
-The relationship between age and insurance charges exhibits a positive correlation, meaning that their insurance costs tend to rise as people age. The scatter plot analysis, supported by a trend line, confirms that while age is a factor, its impact is less pronounced compared to smoking and BMI.
+**Insurance Charges by Region:**
+* Southeast region has the highest average charge (~$15K).
+* Northeast follows with $13K, while Northwest and Southwest have similar charges ($12K each).
+* Regional differences exist but are not as impactful as smoking or BMI.
 
-Regional variations in insurance charges are observed but have a comparatively lower impact than smoking and BMI. The Southeast region has the highest average insurance cost ($15K), followed by the Northeast ($13K), while both the Northwest and Southwest regions show similar and lower average costs (~$12K). These findings suggest that location has some influence, possibly due to regional healthcare costs or lifestyle factors, but it is not the most critical determinant.
+**Relationship Between Age and Insurance Charges:**
+* A positive correlation exists between age and insurance costs.
+* Older individuals generally pay higher premiums due to increased health risks.
 
-Additionally, the distribution of smokers by gender shows a nearly equal split, with male smokers comprising 47.39% and female smokers 52.61%. This indicates that smoking-related risks affect both genders similarly.
+**Impact of BMI on Charges:**
+* Obese individuals incur the highest insurance charges.
+* Overweight individuals also face above-average costs.
+* Normal and underweight individuals have lower insurance expenses.
+
+**Smoking Distribution by Gender:**
+* Male Smokers: 47.39%
+* Female Smokers: 52.61%
+* Smoking-related risks are evenly distributed between genders.
+
+## Business Insights
+**For Insurance Companies:**
+* Use Power BI’s interactive filtering to refine risk-based pricing strategies.
+* Adjust premiums based on smoking status and BMI risk levels.
+* Offer discounts for healthier lifestyles to encourage preventive healthcare.
+  
+**For Healthcare Professionals:**
+* Develop awareness programs for smoking cessation and weight management.
+* Use regional insights to implement targeted preventive care initiatives.
+  
+**For Individuals:**
+* Use the dashboard to assess how lifestyle choices impact insurance costs.
+* Make healthier choices to reduce insurance premiums.
+
+This Power BI dashboard provides an interactive analysis of healthcare insurance costs, helping stakeholders make data-driven decisions regarding insurance pricing, risk management, and preventive healthcare strategies.
 
 **Key Takeaways:**
 
