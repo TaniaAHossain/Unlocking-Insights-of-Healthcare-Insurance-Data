@@ -1,6 +1,6 @@
 # Unlocking-Insights-of-Healthcare-Insurance-Data
 
-![Image](https://github.com/user-attachments/assets/51244bbe-3d93-46d3-9821-42bb03f1ba76)
+![Image](https://github.com/user-attachments/assets/46792bcb-f265-490a-9aad-2677d54c905a)
 
  A study on healthcare insurance charges reveals smoking status and BMI as key cost drivers, with age showing a positive correlation. The regional impact is lesser but present. Insights aim to help insurers refine pricing, healthcare professionals target interventions, and individuals make informed health decisions for better preventive care.
  
