@@ -53,7 +53,7 @@ This Power BI dashboard presents a comprehensive analysis of healthcare insuranc
 
 This Power BI dashboard provides an interactive analysis of healthcare insurance costs, helping stakeholders make data-driven decisions regarding insurance pricing, risk management, and preventive healthcare strategies.
 
-**Key Takeaways:**
+## Key Takeaways
 
 * Smoking and BMI are the primary factors driving higher insurance charges.
 * Age has a moderate impact, with costs increasing as individuals grow older.
