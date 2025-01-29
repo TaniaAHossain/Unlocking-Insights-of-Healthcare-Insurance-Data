@@ -10,7 +10,9 @@ This Power BI dashboard presents a comprehensive analysis of healthcare insuranc
 
 ![Image](https://github.com/user-attachments/assets/c28e387f-cfe9-487a-9389-c7b73614a777)
 
-The Healthcare Insurance Dashboard provides key insights into the factors influencing insurance charges, focusing on smoking status, BMI, age, and geographical region. The data analysis reveals that smoking status is the most significant cost driver, with smokers facing an average charge of $32.05K, compared to $8.43K for non-smokers. This substantial difference highlights the strong correlation between smoking and increased healthcare expenses due to associated health risks.
+## Dashboard Highlights
+**Average Insurance Charges**
+* The overall average charge is $13.27K, serving as a reference point for comparisons.
 
 BMI (Body Mass Index) is also crucial in determining insurance costs. Individuals categorized as obese face the highest charges due to their elevated health risks, followed by overweight individuals, who also experience above-average costs. Those in the normal and underweight categories generally incur lower insurance expenses. The classification based on risk levels shows that individuals in the "Very High Risk" category (primarily obese individuals) have the highest healthcare charges.
 
