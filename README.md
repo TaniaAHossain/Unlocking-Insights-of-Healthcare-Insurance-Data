@@ -53,6 +53,8 @@ The study aims to provide actionable insights for insurers to refine risk assess
 
 ![images](https://github.com/TaniaAHossain/Unlocking-Insights-of-Healthcare-Insurance-Data/blob/6a64289e25023b8bd2d087b7f58625af3707777e/Images/Charges%20by%20age%20group%20anad%20risk%20category.png)
 
+This plot effectively communicates the complex interplay between age, risk factors (smoking, BMI), and healthcare costs. It provides valuable insights for insurance providers, healthcare professionals, and individuals to understand the financial implications of health-related behaviors and demographics. By identifying high-risk groups and comprehending the cost trends associated with different age and risk profiles, stakeholders can make informed decisions regarding insurance premiums, preventive care, and health interventions.
+
 ![images](https://github.com/TaniaAHossain/Unlocking-Insights-of-Healthcare-Insurance-Data/blob/c8f560983c0a47cb3c0d1b5a1e7b19e638784b2a/Images/Untitled.png)
 
 ![images](https://github.com/TaniaAHossain/Unlocking-Insights-of-Healthcare-Insurance-Data/blob/c8f560983c0a47cb3c0d1b5a1e7b19e638784b2a/Images/Charges%20by%20Region%20and%20smoker%20Status.jpg)
