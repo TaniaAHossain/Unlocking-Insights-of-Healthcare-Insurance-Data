@@ -41,3 +41,5 @@ The study aims to provide actionable insights for insurers to refine risk assess
 
 ### Excel Project
 
+
+![Power Bi dashboard images](https://github.com/TaniaAHossain/Unlocking-Insights-of-Healthcare-Insurance-Data/blob/a0d974c5a081202c4c4fd936206cf4c27ea15a2b/Excel%20Project%20using%20Power%20BI/Healthcare%20insurance%20-%20p1.jpg)
