@@ -53,6 +53,8 @@ The study aims to provide actionable insights for insurers to refine risk assess
 
 ![images](https://github.com/TaniaAHossain/Unlocking-Insights-of-Healthcare-Insurance-Data/blob/6a64289e25023b8bd2d087b7f58625af3707777e/Images/Charges%20by%20age%20group%20anad%20risk%20category.png)
 
+![images](https://github.com/TaniaAHossain/Unlocking-Insights-of-Healthcare-Insurance-Data/blob/c8f560983c0a47cb3c0d1b5a1e7b19e638784b2a/Images/Untitled.png)
+
 ![images](https://github.com/TaniaAHossain/Unlocking-Insights-of-Healthcare-Insurance-Data/blob/c8f560983c0a47cb3c0d1b5a1e7b19e638784b2a/Images/Charges%20by%20Region%20and%20smoker%20Status.jpg)
 
 ![images](https://github.com/TaniaAHossain/Unlocking-Insights-of-Healthcare-Insurance-Data/blob/c8f560983c0a47cb3c0d1b5a1e7b19e638784b2a/Images/Correlation%20between%20Age%20%2C%20BMI%2C%20Smoker%2C%20Region%20and%20Charges.jpg)
@@ -61,7 +63,7 @@ The study aims to provide actionable insights for insurers to refine risk assess
 
 ![images](https://github.com/TaniaAHossain/Unlocking-Insights-of-Healthcare-Insurance-Data/blob/c8f560983c0a47cb3c0d1b5a1e7b19e638784b2a/Images/Number%20of%20children%20vs%20average%20cost.png)
 
-![images](https://github.com/TaniaAHossain/Unlocking-Insights-of-Healthcare-Insurance-Data/blob/c8f560983c0a47cb3c0d1b5a1e7b19e638784b2a/Images/Untitled.png)
+
 
 
 
