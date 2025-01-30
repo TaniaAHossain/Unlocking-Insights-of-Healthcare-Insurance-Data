@@ -71,7 +71,12 @@ This analysis reveals that smoking status is the primary driver of insurance cha
 
 This illustration helps to understand how different factors (age, BMI, smoker status, region) relate to insurance charges by calculating and visualizing their correlation coefficients using a heatmap. This can provide valuable insights into which factors have the strongest relationships with insurance costs.
 
+- **Impact of Age and BMI on charges**
 ![images](https://github.com/TaniaAHossain/Unlocking-Insights-of-Healthcare-Insurance-Data/blob/c8f560983c0a47cb3c0d1b5a1e7b19e638784b2a/Images/Impact%20of%20Age%20and%20BMI%20on%20Charges.jpg)
+
+This 3D scatter plot illustrates the interplay between age, BMI, and insurance charges. Individual data points are plotted in three-dimensional space, with their position determined by their age, BMI, and corresponding charge amount. A 'plasma' colormap is used to represent the magnitude of the charges, with color intensity varying to depict the range from low to high costs.
+
+- **Number of Children vs Average Cost**
 
 ![images](https://github.com/TaniaAHossain/Unlocking-Insights-of-Healthcare-Insurance-Data/blob/c8f560983c0a47cb3c0d1b5a1e7b19e638784b2a/Images/Number%20of%20children%20vs%20average%20cost.png)
 
