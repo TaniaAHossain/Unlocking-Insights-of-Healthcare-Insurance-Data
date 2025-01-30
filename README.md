@@ -61,8 +61,10 @@ This plot effectively communicates the complex interplay between age, risk facto
 
 This analysis reveals that BMI is a key factor in healthcare costs, with higher BMIs correlating with higher insurance charges. Regional variations in costs also exist, likely due to regional factors. The interaction of BMI and region further complicates cost patterns. This information is valuable for insurers (risk assessment and premiums), healthcare providers (targeted interventions), policymakers (public health programs), and individuals (informed health choices).
 
-- **
+- **Combined Visualization for Charges across smoker status and region**
 ![images](https://github.com/TaniaAHossain/Unlocking-Insights-of-Healthcare-Insurance-Data/blob/c8f560983c0a47cb3c0d1b5a1e7b19e638784b2a/Images/Charges%20by%20Region%20and%20smoker%20Status.jpg)
+
+This analysis reveals that smoking status is the primary driver of insurance charges, with smokers consistently facing significantly higher costs than non-smokers across all regions. While regional variations in charges exist, they are less pronounced than the impact of smoking. Specifically, the Southeast region shows slightly higher charges for smokers, and the Northeast shows slightly higher charges for non-smokers compared to other regions.
 
 ![images](https://github.com/TaniaAHossain/Unlocking-Insights-of-Healthcare-Insurance-Data/blob/c8f560983c0a47cb3c0d1b5a1e7b19e638784b2a/Images/Correlation%20between%20Age%20%2C%20BMI%2C%20Smoker%2C%20Region%20and%20Charges.jpg)
 
