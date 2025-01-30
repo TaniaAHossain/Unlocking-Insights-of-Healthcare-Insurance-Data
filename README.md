@@ -66,8 +66,10 @@ This analysis reveals that BMI is a key factor in healthcare costs, with higher 
 
 This analysis reveals that smoking status is the primary driver of insurance charges, with smokers consistently facing significantly higher costs than non-smokers across all regions. While regional variations in charges exist, they are less pronounced than the impact of smoking. Specifically, the Southeast region shows slightly higher charges for smokers, and the Northeast shows slightly higher charges for non-smokers compared to other regions.
 
+- **Correlation Between Age, BMI, Smoker Status, Region, and Charges**
 ![images](https://github.com/TaniaAHossain/Unlocking-Insights-of-Healthcare-Insurance-Data/blob/c8f560983c0a47cb3c0d1b5a1e7b19e638784b2a/Images/Correlation%20between%20Age%20%2C%20BMI%2C%20Smoker%2C%20Region%20and%20Charges.jpg)
 
+This illustration helps to understand how different factors (age, BMI, smoker status, region) relate to insurance charges by calculating and visualizing their correlation coefficients using a heatmap. This can provide valuable insights into which factors have the strongest relationships with insurance costs.
 
 ![images](https://github.com/TaniaAHossain/Unlocking-Insights-of-Healthcare-Insurance-Data/blob/c8f560983c0a47cb3c0d1b5a1e7b19e638784b2a/Images/Impact%20of%20Age%20and%20BMI%20on%20Charges.jpg)
 
