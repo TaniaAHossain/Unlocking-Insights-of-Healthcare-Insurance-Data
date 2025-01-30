@@ -37,3 +37,6 @@ The study aims to provide actionable insights for insurers to refine risk assess
 -  [Python](https://www.python.org/)
 -  [Power BI](https://powerbi.microsoft.com/en-us/)
 
+## Analysis
+
+### Excel Project
