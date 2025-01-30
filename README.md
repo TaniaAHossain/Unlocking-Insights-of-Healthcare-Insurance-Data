@@ -20,3 +20,11 @@
 
 ## Objective:
 The study aims to provide actionable insights for insurers to refine risk assessment and pricing strategies, assist healthcare professionals in developing targeted interventions, and help individuals make informed decisions about health and preventive care.
+
+## Data Source
+[Data Source](https://www.kaggle.com/datasets/willianoliveiragibin/healthcare-insurance)
+
+## Built With 
+
+•[Python](https://www.python.org/)
+•[Power BI](https://powerbi.microsoft.com/en-us/)
