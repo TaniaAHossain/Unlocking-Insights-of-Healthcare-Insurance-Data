@@ -27,7 +27,7 @@
 - **Correlation Quantification:** Generates a correlation matrix to measure the strength of relationships between variables.
 
 ## Objective:
-The study aims to provide actionable insights for insurers to refine risk assessment and pricing strategies, assist healthcare professionals in developing targeted interventions, and help individuals make informed decisions about health and preventive care.
+The study seeks to generate actionable insights that enable insurers to enhance risk assessment and optimize pricing strategies. Additionally, it aims to support healthcare professionals in designing targeted interventions while empowering individuals to make informed decisions regarding their health and preventive care.
 
 ## Data Source
 [Data Source](https://www.kaggle.com/datasets/willianoliveiragibin/healthcare-insurance)
