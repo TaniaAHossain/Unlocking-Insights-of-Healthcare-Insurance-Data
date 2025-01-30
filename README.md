@@ -6,9 +6,13 @@
  
 ## Key Findings:
 **Average Insurance Charge:** $13.27K
+
 **Impact of Smoking:** Smokers pay significantly higher premiums ($32.05K) than non-smokers ($8.43K), making smoking the most influential cost driver.
+
 **Regional Variations:** The Southeast has the highest average charges ($15K), while other regions like the Northwest and Southwest have lower costs ($12K).
+
 **BMI Influence:** Overweight and obese individuals incur higher premiums due to increased health risks.
+
 **Age Correlation:** Insurance costs generally rise with age, though some younger individuals also face high charges due to other risk factors.
 
 ## Analytical Approach:
