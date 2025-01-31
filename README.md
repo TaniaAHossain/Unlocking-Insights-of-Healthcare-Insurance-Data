@@ -80,6 +80,8 @@ This 3D scatter plot illustrates the interplay between age, BMI, and insurance c
 
 ![images](https://github.com/TaniaAHossain/Unlocking-Insights-of-Healthcare-Insurance-Data/blob/c8f560983c0a47cb3c0d1b5a1e7b19e638784b2a/Images/Number%20of%20children%20vs%20average%20cost.png)
 
+The line chart visually represents the relationship between the average insurance cost and the number of children a person has. The chart utilizes circular markers and a solid blue line to highlight the trend. By examining the line's direction, you can determine whether a positive, negative, or no correlation exists between the number of children and average insurance costs. Each circular marker indicates the average cost for a particular number of children. The inclusion of grid lines simplifies the process of reading and comparing values, while the title and axis labels provide essential context for understanding the chart's purpose and data.
+
 
 
 
