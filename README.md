@@ -99,7 +99,9 @@ Insurance companies heavily rely on risk assessment to determine premiums. This 
   
 - **Predictive Maintenance:** For property and casualty insurance, the notebook could be used to analyze data from sensors or other sources to predict potential maintenance needs for insured assets. This proactive approach could help prevent losses and improve risk management.
 
+## Closing Remarks
 
+The visualizations establish functions for calculating insurance costs based on critical factors such as age, BMI, smoking status, and geographic region. Leveraging pandas for data processing and matplotlib for visualization, the analysis identifies smoking as the most significant determinant of insurance costs, followed by age and BMI. Furthermore, notable regional variations in premiums are observed. These insights underscore the necessity of incorporating individual health and lifestyle factors into insurance risk assessments and pricing strategies.
 
 
 
