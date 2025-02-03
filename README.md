@@ -51,10 +51,10 @@ The study seeks to generate actionable insights that enable insurers to enhance 
 ### Python Project
 ![Python Project ](https://github.com/TaniaAHossain/Unlocking-Insights-of-Healthcare-Insurance-Data/blob/a3a480a9471d47602956c1d2cd94a72862b09d9a/Python%20Project/Healthcare_Insurance_Data_ipynb_Tania_Hossain.ipynb)
 
-#### * Comparing average charges across age groups and risk categories
+## Comparing average charges across age groups and risk categories
 ![images](https://github.com/TaniaAHossain/Unlocking-Insights-of-Healthcare-Insurance-Data/blob/6a64289e25023b8bd2d087b7f58625af3707777e/Images/Charges%20by%20age%20group%20anad%20risk%20category.png)
 
-This plot effectively communicates the complex interplay between age, risk factors (smoking, BMI), and healthcare costs. It provides valuable insights for insurance providers, healthcare professionals, and individuals to understand the financial implications of health-related behaviors and demographics. By identifying high-risk groups and comprehending the cost trends associated with different age and risk profiles, stakeholders can make informed decisions regarding insurance premiums, preventive care, and health interventions.
+This plot effectively communicates the complex interplay between age, risk factors (smoking, BMI), and healthcare costs. It provides valuable insights for insurance providers, healthcare professionals, and individuals to understand the financial implications of health-related behaviors and demographics. Stakeholders can make informed decisions regarding insurance premiums, preventive care, and health interventions by identifying high-risk groups and comprehending the cost trends associated with different age and risk profiles.
 
 #### * Charges by BMI type and risk
 ![images](https://github.com/TaniaAHossain/Unlocking-Insights-of-Healthcare-Insurance-Data/blob/c8f560983c0a47cb3c0d1b5a1e7b19e638784b2a/Images/Untitled.png)
